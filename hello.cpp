@@ -1,1 +1,1 @@
-print(new val);
+@__has_include
